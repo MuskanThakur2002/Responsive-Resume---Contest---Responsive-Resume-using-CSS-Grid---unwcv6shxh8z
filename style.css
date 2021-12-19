@@ -29,6 +29,7 @@ body{
     position: relative;
     padding: 40px;
     min-height: 100%;
+    grid-template-columns: 300px;
     background: #242531;
 }
 
